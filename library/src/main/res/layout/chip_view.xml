@@ -8,7 +8,7 @@
     android:layout_width="wrap_content"
     android:layout_height="@dimen/chip_height"
     android:clickable="true">
-    <com.tylersuehr.chips.CircleImageView
+    <com.fifthgen.chips.CircleImageView
         android:id="@+id/avatar"
         android:layout_width="@dimen/chip_height"
         android:layout_height="@dimen/chip_height"

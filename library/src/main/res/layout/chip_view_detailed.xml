@@ -12,7 +12,7 @@
     android:focusableInTouchMode="true"
     android:focusable="true"
     android:clickable="true">
-    <com.tylersuehr.chips.CircleImageView
+    <com.fifthgen.chips.CircleImageView
         android:id="@+id/avatar"
         android:layout_width="40dp"
         android:layout_height="40dp"
